@@ -1,1 +1,1 @@
-# Mini-Dooray-8-gateway
+# gateway 서버 구현 완료
